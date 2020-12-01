@@ -13,3 +13,6 @@ npm install
 ```bash
 serverless deploy
 ```
+
+Expected : the process terminates with non-zero code
+Actual : the process terminates with zero code
